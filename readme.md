@@ -10,7 +10,7 @@ Install flask <br/>
 install android studio  <br/>
 If you haven’t created any project in android, please follow hello world for android  <br/>
     https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-practicals/content/en/Unit%201/11_p_hello_world.html <br/>
-Server Code using flask and saved it as server.py  <br/>
+Write Server Code using flask and saved it as DataMiningServer.py  or use mine to understand concept<br/>
 execute python DataMiningServer.py <br/>
 it will start your basic server, for me generated URL was http://127.0.0.1:5000/  <br/>
 ![](https://github.com/BhaskarTrivedi/flaskWebserverandAndroidClient/blob/master/flaskServer.JPG)
