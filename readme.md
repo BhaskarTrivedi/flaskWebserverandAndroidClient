@@ -13,6 +13,7 @@ If you haven’t created any project in android, please follow hello world for a
 Server Code using flask and saved it as server.py  <br/>
 execute python DataMiningServer.py <br/>
 it will start your basic server, for me generated URL was http://127.0.0.1:5000/  <br/>
+![](https://github.com/BhaskarTrivedi/flaskWebserverandAndroidClient/blob/master/flaskServer.JPG)
 create some basic android project you can fork my project also. <br/>
 If you are using my project use user name as Bhaskar and password as imbhaskar at login screen. <br/>
 Click on login button, it will send and received JSON object to and from flask web server <br/>
@@ -25,4 +26,7 @@ AsyncTask : will start Asynchronous connection request with server <br/>
 doInBackground : Will run the thread in background <br/>
 onPostExecute :  Execute after it receive response from server <br/>
 
+I have printed received JSON object at log an android editor
+
+![](https://github.com/BhaskarTrivedi/flaskWebserverandAndroidClient/blob/master/LogServer.JPG)
 
