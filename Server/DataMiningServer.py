@@ -1,3 +1,7 @@
+#Bhaskar Chandra Trivedi
+#Github Open Code
+# Created to understand flow to send and receive JSON Object , Use it to understand Concept, don't copy and paste it.
+
 from flask import Flask, request,jsonify
 app = Flask(__name__)
 
